@@ -1,0 +1,11 @@
+/Users/arthur.martinez/Desktop/GITHomeWork/HelloWorld2/HelloWorld2/bin/Debug/netcoreapp2.0/HelloWorld2.deps.json
+/Users/arthur.martinez/Desktop/GITHomeWork/HelloWorld2/HelloWorld2/bin/Debug/netcoreapp2.0/HelloWorld2.runtimeconfig.json
+/Users/arthur.martinez/Desktop/GITHomeWork/HelloWorld2/HelloWorld2/bin/Debug/netcoreapp2.0/HelloWorld2.runtimeconfig.dev.json
+/Users/arthur.martinez/Desktop/GITHomeWork/HelloWorld2/HelloWorld2/bin/Debug/netcoreapp2.0/HelloWorld2.dll
+/Users/arthur.martinez/Desktop/GITHomeWork/HelloWorld2/HelloWorld2/bin/Debug/netcoreapp2.0/HelloWorld2.pdb
+/Users/arthur.martinez/Desktop/GITHomeWork/HelloWorld2/HelloWorld2/obj/Debug/netcoreapp2.0/HelloWorld2.csprojResolveAssemblyReference.cache
+/Users/arthur.martinez/Desktop/GITHomeWork/HelloWorld2/HelloWorld2/obj/Debug/netcoreapp2.0/HelloWorld2.csproj.CoreCompileInputs.cache
+/Users/arthur.martinez/Desktop/GITHomeWork/HelloWorld2/HelloWorld2/obj/Debug/netcoreapp2.0/HelloWorld2.AssemblyInfoInputs.cache
+/Users/arthur.martinez/Desktop/GITHomeWork/HelloWorld2/HelloWorld2/obj/Debug/netcoreapp2.0/HelloWorld2.AssemblyInfo.cs
+/Users/arthur.martinez/Desktop/GITHomeWork/HelloWorld2/HelloWorld2/obj/Debug/netcoreapp2.0/HelloWorld2.dll
+/Users/arthur.martinez/Desktop/GITHomeWork/HelloWorld2/HelloWorld2/obj/Debug/netcoreapp2.0/HelloWorld2.pdb
